@@ -6,3 +6,7 @@ In this prooject we have created a classification method using Convolutional Neu
 
 # CNN Architecture
 
+![archi](https://user-images.githubusercontent.com/77114327/169652493-32835a7f-d667-4a96-b32c-d786d939c91b.png)
+
+# Results
+We achieved 89% validation accuracy with our CNN model.
