@@ -10,7 +10,7 @@ In this prooject we have created a classification method using Convolutional Neu
 ![archi](https://user-images.githubusercontent.com/77114327/169652493-32835a7f-d667-4a96-b32c-d786d939c91b.png)
 
 # Results
-We achieved 89% validation accuracy with our CNN model.
+We achieved 89% validation accuracy with 400 epochs.
 
 ![unnamed](https://user-images.githubusercontent.com/77114327/169652650-8347b3d1-26e9-4105-a6ae-30312b384173.png)
 
